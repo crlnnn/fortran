@@ -1,0 +1,4 @@
+ avgTemp =    300.093506    
+ avgPress =    665.505005    
+ varianceTemp =    7.70102835    
+ variancePres =    1750.27075    
